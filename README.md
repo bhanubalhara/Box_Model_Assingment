@@ -17,3 +17,4 @@ This is a small frontend assignment built using "HTML", "CSS", and "JavaScript" 
 -- index.html
 -- style.css
 -- script.js
+Git Repo link : https://github.com/bhanubalhara/Box_Model_Assingment.git
